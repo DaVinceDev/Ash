@@ -1,3 +1,5 @@
+
+07/22/24
 So, i can use this as the documentation steps or rather the (written) journey that is going to be
 DotNet Documentation Helper - Ash
 
@@ -26,3 +28,27 @@ Who are the people that have this problem in the most severe form?
     - ^The argument before this
 
 Ok, i've now ansewered the questions that i needed. Now i just have to interview people and see how often and how this affect they're daily-basis. 
+
+07/23/24
+
+Yesterday i interviewed some people and aparenlty, this problem is more common in certain circunstances like:
+
+    -A project that is requires a lot of research and/or involving more than one library
+    -A project that is needed due in a short amout of time (this phrase might be wrong)
+    -A project where the library isn't organized, specific and mostly outdated
+
+But that never stopped us programmers so it may be *skill issue.
+
+Still, my idea stays pretty valid and interesting so i'll build it.
+
+Before starting the work i need to address some things:
+
+1º My main aim is to webscrap dotnet documentation pages(at first) to test it out and see
+how can I use this on a daily basis as a C# programmer.
+
+2º I may or may not be commiting a crime since web scrapping in general legal, but i don't know how Microsoft is going to react as soon this goes viral(i know it will)
+
+3º This is supposed to be an Visual Studio tool (for desktop), but if you want to contribute we can make this an extension for your favorite code editor
+
+(I dont really know why i said this, i'll build already)
+
